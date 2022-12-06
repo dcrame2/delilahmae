@@ -59,7 +59,7 @@ function App() {
         img1="/5/age5photo1.jpeg"
         img2="/5/age5photo2.jpeg"
         img3="/5/age5photo3.jpeg"
-        img4="/5/age5photo4.jpeg"
+        img4="/5/photo4.jpeg"
         bgColor="#fff"
         color="pink"
       />
