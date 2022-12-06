@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Emilys+Candy&family=Princess+Sofia&family=Shadows+Into+Light+Two&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Shadows Into Light Two", cursive;
+}
